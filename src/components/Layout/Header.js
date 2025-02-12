@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import Logo  from "../../assets/logo300.png" 
-
 import React, { useEffect, useState } from 'react';
 import { Search } from "../Sections/Search";
 import { DropdownLoggedOut, DropdownLoggedIn } from "../index";
